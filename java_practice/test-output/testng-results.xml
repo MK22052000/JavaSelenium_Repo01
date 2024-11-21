@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-17T12:23:58 IST" name="Default suite" finished-at="2024-11-17T12:24:24 IST" duration-ms="25175">
+    <groups>
+    </groups>
+    <test started-at="2024-11-17T12:23:58 IST" name="Default test" finished-at="2024-11-17T12:24:24 IST" duration-ms="25175">
+      <class name="com.facebbok.tests.LoginTest">
+        <test-method signature="LoginTest1()[pri:0, instance:com.facebbok.tests.LoginTest@51e69659]" started-at="2024-11-17T12:23:58 IST" name="LoginTest1" finished-at="2024-11-17T12:24:24 IST" duration-ms="25137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest1 -->
+      </class> <!-- com.facebbok.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
