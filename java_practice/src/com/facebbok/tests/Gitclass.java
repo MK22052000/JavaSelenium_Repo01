@@ -7,6 +7,8 @@ public class Gitclass {
 		
 		System.out.println("Hello git");
 		System.out.println("new comment");
+		System.out.println("new code is adding");
+		
 		
 
 	}
